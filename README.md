@@ -1,3 +1,3 @@
-# r1-base
+# r1-radio
 
-Software for base station
+Software for Tx and Rx of nfr24
